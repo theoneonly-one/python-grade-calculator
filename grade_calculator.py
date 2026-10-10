@@ -6,6 +6,7 @@ total = python_marks + sql_marks + math_marks
 average = total / 3
 
 print("Total marks:", total)
+print("Maximum possible marks: 300")
 print("Average marks:", average)
 
 if average >= 90:
